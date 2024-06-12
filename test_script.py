@@ -19,3 +19,4 @@ while image_number <= 9:
         print(f"\nERROR FOR DIGIT {image_number}\n")
     finally:
         image_number += 1
+
